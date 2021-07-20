@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋, 
+# Abhishek Kumar, MSc
 
 <!--
 **Abhikumar86/abhikumar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,19 +20,19 @@ Here are some ideas to get you started:
 
 #### 2021
 
-Abhishek Kumar, Meenu Patil, Pardeep Kumar, Anand Narain Singh (2021). Phosphorus and litter decomposability traits in tropical forest ecosystems under changing environment: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), Tropical Dry Forests: Emerging Features and Ecological Perspectives (pp. 311–336). Nova Science Publishers, Inc., New York.
+**Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Anand Narain Singh (2021). Phosphorus and litter decomposability traits in tropical forest ecosystems under changing environment: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), *Tropical Dry Forests: Emerging Features and Ecological Perspectives* (pp. 311–336). Nova Science Publishers, Inc., New York.
  
 
-Pardeep Kumar, Deepika Antil, Abhishek Kumar, Meenu Patil, Anand Narain Singh (2021). Impact of changing environment on carbon dynamics in tropics with special focus on tropical dry forest ecosystems: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), Tropical Dry Forests: Emerging Features and Ecological Perspectives (pp. 207–246). Nova Science Publishers, Inc., New York.
+Pardeep Kumar, Deepika Antil, **Abhishek Kumar**, Meenu Patil, Anand Narain Singh (2021). Impact of changing environment on carbon dynamics in tropics with special focus on tropical dry forest ecosystems: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), *Tropical Dry Forests: Emerging Features and Ecological Perspectives* (pp. 207–246). Nova Science Publishers, Inc., New York.
  
 
-Deepika Antil, Pardeep Kumar, Abhishek Kumar, Meenu Patil, Anand Narain Singh (2021). Foraging efficiency of fine roots in relation to carbon dynamics in the tropical ecosystems in a changing environment: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), Tropical Dry Forests: Emerging Features and Ecological Perspectives (pp. 421–454). Nova Science Publishers, Inc., New York.
+Deepika Antil, Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Anand Narain Singh (2021). Foraging efficiency of fine roots in relation to carbon dynamics in the tropical ecosystems in a changing environment: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), *Tropical Dry Forests: Emerging Features and Ecological Perspectives* (pp. 421–454). Nova Science Publishers, Inc., New York.
  
 
-Rajni Yadav, Abhishek Kumar, Diksha Tokas, Anand Narain Singh (2021). Soil contamination by polycyclic aromatic hydrocarbons in the agroecosystems. In V. K. Singh, R. Singh, & E. Lichtfouse (Eds.), Sustainable Agriculture Reviews 50: Emerging Contaminants in Agriculture (pp. 211–234). Springer, Switzerland.
+Rajni Yadav, **Abhishek Kumar**, Diksha Tokas, Anand Narain Singh (2021). Soil contamination by polycyclic aromatic hydrocarbons in the agroecosystems. In V. K. Singh, R. Singh, & E. Lichtfouse (Eds.), *Sustainable Agriculture Reviews 50: Emerging Contaminants in Agriculture* (pp. 211–234). Springer, Switzerland.
   
 
-Abhishek Kumar, Meenu Patil, Pardeep Kumar, Ram Chand Bhatti, Rupinder Kaur, Nitin Kumar Sharma, Anand Narain Singh (2021). Mallotus philippensis (Lam.) Müll. Arg.: A review on its pharmacology and phytochemistry. Journal of Herbmed Pharmacology, 10(1), 31-50.
+**Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Ram Chand Bhatti, Rupinder Kaur, Nitin Kumar Sharma, Anand Narain Singh (2021). Mallotus philippensis (Lam.) Müll. Arg.: A review on its pharmacology and phytochemistry. *Journal of Herbmed Pharmacology, 10*(1), 31-50. https://doi.org/10.34172/jhp.2021.03
   
 
 #### 2020
