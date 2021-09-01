@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Repos
+
+* [abhikumar86.github.io](https://abhikumar86.github.io/)  
+* [my-publications](https://abhikumar86.github.io/my-publications)
+* [website](https://akumar.netlify.app/)
+* [botany-book](https://abhikumar86.github.io/botany-book/)
+* [ecology-jcr](https://abhikumar86.github.io/ecology-jcr/)
+
 ## Publications
 
 #### 2021
