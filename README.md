@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 * [abhikumar86.github.io](https://abhikumar86.github.io/)  
 * [my-publications](https://abhikumar86.github.io/my-publications)
-* [website](https://akumar.netlify.app/)
+* [my-website](https://akumar.netlify.app/)
 * [botany-book](https://abhikumar86.github.io/botany-book/)
 * [ecology-jcr](https://abhikumar86.github.io/ecology-jcr/)
 
