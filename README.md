@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## Repos
 
-* [abhikumar86.github.io](https://abhikumar86.github.io/)  
-* [my-publications](https://abhikumar86.github.io/my-publications)
-* [my-website](https://akumar.netlify.app/)
-* [botany-book](https://abhikumar86.github.io/botany-book/)
-* [ecology-jcr](https://abhikumar86.github.io/ecology-jcr/)
+* [abhikumar86.github.io](https://github.com/Abhikumar86/abhikumar86.github.io/)  
+* [my-publications](https://github.com/Abhikumar86/my-publications)
+* [my-website](https://github.com/Abhikumar86/my-website/)
+* [botany-book](https://github.com/Abhikumar86/botany-book/)
+* [ecology-jcr](https://github.com/Abhikumar86/ecology-jcr/)
 
 ## Publications
 
