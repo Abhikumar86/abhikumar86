@@ -1,4 +1,9 @@
 # Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Kumar
+<p align="center">
+<a href="https://www.researchgate.net/profile/Abhishek-Kumar-331"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white&color=blue" alt=""></a>
+<a href="https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white&color=blue" alt="Google Scholar"></a>
+</p>
+
 <!--
 **Abhikumar86/abhikumar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
