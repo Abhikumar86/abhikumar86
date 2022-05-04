@@ -31,7 +31,17 @@ Here are some ideas to get you started:
 
 #### 2022
 
-Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 00*(00). <https://doi.org/10.1002/ldr.4286>
+**Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Manoj Kumar, Anand Narain Singh (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 00*(00), 00-00. <https://doi.org/10.1007/s42965-022-00229-x>
+
+Anand Narain Singh, **Abhishek Kumar** (2022). Ecological performances of exotic and native woody species on coal mine spoil in Indian dry tropical region. *Ecological Engineering, 174*, 106470. <https://doi.org/10.1016/j.ecoleng.2021.106470>
+
+Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 00*(00), 00-00. <https://doi.org/10.1002/ldr.4286>
+
+Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Nitin Kumar Sharma, Anand Narain Singh (2022). Herbaceous vegetation under planted woody species on coal mine spoil acts as a source of organic matter. *Acta Oecologica, 114*, 103809. <https://doi.org/10.1016/j.actao.2021.103809>
+
+Rajni Yadav, Siril Singh, **Abhishek Kumar**, Anand Narain Singh (2022). Phytoremediation: A wonderful cost-effective tool. In S. Kathi, S. Devipriya, & K. Thamaraiselvi (Eds.), *Cost Effective Technologies for Solid Waste and Wastewater Treatment* (pp. 179–208). Elsevier, Amsterdam. <https://doi.org/10.1016/B978-0-12-822933-0.00008-5>
+
+Ram Chand Bhatti, Rupinder Kaur, **Abhishek Kumar**, Viney Kumar, Siril Singh, Pardeep Kumar, Sheenu Sharma, Chongtham Nirmala, Anand Narain Singh (2022). Nutrient component analyses of selected wild edible plants from Hamirpur district of Himachal Pradesh, India: an evaluation for future food. *Vegetos, 00*(00), 00-00. <https://doi.org/10.1007/s42535-021-00336-5>
 
 
 #### 2021
