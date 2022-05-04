@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 ## Publications
 
+#### 2022
+
+Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 00*(00). <https://doi.org/10.1002/ldr.4286>
+
+
 #### 2021
 
 **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Anand Narain Singh (2021). Phosphorus and litter decomposability traits in tropical forest ecosystems under changing environment: A synthesis. In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), *Tropical Dry Forests: Emerging Features and Ecological Perspectives* (pp. 311–336). Nova Science Publishers, Inc., New York.
