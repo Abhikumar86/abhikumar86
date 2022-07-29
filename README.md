@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Repos
-
-* [abhikumar86.github.io](https://github.com/Abhikumar86/abhikumar86.github.io/)  
-* [my-publications](https://github.com/Abhikumar86/my-publications)
-* [my-website](https://github.com/Abhikumar86/my-website/)
-* [botany-book](https://github.com/Abhikumar86/botany-book/)
-* [ecology-jcr](https://github.com/Abhikumar86/ecology-jcr/)
 
 ## Publications
 
@@ -41,7 +34,7 @@ Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Nitin Kumar Sharma, Anand Narain
 
 Rajni Yadav, Siril Singh, **Abhishek Kumar**, Anand Narain Singh (2022). Phytoremediation: A wonderful cost-effective tool. In S. Kathi, S. Devipriya, & K. Thamaraiselvi (Eds.), *Cost Effective Technologies for Solid Waste and Wastewater Treatment* (pp. 179–208). Elsevier, Amsterdam. <https://doi.org/10.1016/B978-0-12-822933-0.00008-5>
 
-Ram Chand Bhatti, Rupinder Kaur, **Abhishek Kumar**, Viney Kumar, Siril Singh, Pardeep Kumar, Sheenu Sharma, Chongtham Nirmala, Anand Narain Singh (2022). Nutrient component analyses of selected wild edible plants from Hamirpur district of Himachal Pradesh, India: an evaluation for future food. *Vegetos, 00*(00), 00-00. <https://doi.org/10.1007/s42535-021-00336-5>
+Ram Chand Bhatti, Rupinder Kaur, **Abhishek Kumar**, Viney Kumar, Siril Singh, Pardeep Kumar, Sheenu Sharma, Chongtham Nirmala, Anand Narain Singh (2022). Nutrient component analyses of selected wild edible plants from Hamirpur district of Himachal Pradesh, India: an evaluation for future food. *Vegetos, 35*(2), 545-550. <https://doi.org/10.1007/s42535-021-00336-5>
 
 
 #### 2021
@@ -69,7 +62,7 @@ Amandeep Kaur, **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Anand Narain Sing
 **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Ram Chand Bhatti, Rupinder Kaur, Nitin Kumar Sharma, Anand Narain Singh (2020). Mallotus philippensis (Lam.) Müll. Arg.: A comprehensive review on ethnomedicinal uses. *Ethnobiology and Conservation, 9*(19), 1-44.
    
 
-**Abhishek Kumar**, Rajni Yadav, Meenu Patil, Pardeep Kumar, Ling Zhang, Amandeep Kaur, Sheenu Sharma, Sabir Hussain, Diksha Tokas, Anand Narain Singh (2020). Sustainable management of national parks and protected areas for conserving biodiversity in India. In L. Zhang (Ed.), *Advances in Forest Management under Global Change*. IntechOpen, United Kingdom.
+**Abhishek Kumar**, Rajni Yadav, Meenu Patil, Pardeep Kumar, Ling Zhang, Amandeep Kaur, Sheenu Sharma, Sabir Hussain, Diksha Tokas, Anand Narain Singh (2020). Sustainable management of national parks and protected areas for conserving biodiversity in India. In L. Zhang (Ed.), *Advances in Forest Management under Global Change* (pp. 75-90). IntechOpen, United Kingdom.
   
 
 Meenu Patil, **Abhishek Kumar**, Pardeep Kumar, Navneet Kaur Cheema, Rupinder Kaur, Ram Chand Bhatti, Anand Narain Singh (2020). Comparative litter decomposability traits of selected native and exotic woody species from an urban environment of north-western Siwalik region, India. *Scientific Reports, 10*, 7888.
